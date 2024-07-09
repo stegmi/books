@@ -17,7 +17,7 @@ header, main, footer {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    text-align: center;
+    text-align: left;
 }
 
 /* Stil für Header */
@@ -36,7 +36,12 @@ main {
 
 main h1 {
     font-size: 28px;
-    margin-bottom: 10px;
+    margin-bottom: 25px;
+}
+
+main h2 {
+    font-size: 20px;
+    margin-bottom: 25px;
 }
 
 /* Stil für Footer */
