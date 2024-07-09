@@ -27,16 +27,26 @@ header {
 
 main {
     padding: 20px 0;
+    text-align: justify;
+}
+
+main p {
+    margin-bottom: 15px;
 }
 
 main h1 {
     font-size: 28px;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
 }
 
 main h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+main h3 {
     font-size: 20px;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 a {
@@ -50,10 +60,14 @@ a:hover {
 }
 
 footer {
-    background-color: #333; /* Dunkleres Schwarz */
+    background-color: #333;
     padding: 10px 0;
 }
 
 footer p {
     font-size: 14px;
+}
+
+footer a {
+    color: inherit;
 }
