@@ -1,18 +1,15 @@
-/* Reset für das ganze Dokument */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Standard-Schrift ähnlich Arial */
 body {
     font-family: sans-serif;
     color: white;
     background-color: black;
 }
 
-/* Zentriert die Inhaltsbereiche bei großen Bildschirmen */
 header, main, footer {
     max-width: 800px;
     margin: 0 auto;
@@ -20,7 +17,6 @@ header, main, footer {
     text-align: left;
 }
 
-/* Stil für Header */
 header {
     background-color: #333; /* Dunkleres Schwarz */
 }
@@ -29,7 +25,6 @@ header {
     font-size: 24px;
 }
 
-/* Stil für Hauptinhalt */
 main {
     padding: 20px 0;
 }
@@ -44,7 +39,16 @@ main h2 {
     margin-bottom: 25px;
 }
 
-/* Stil für Footer */
+a {
+    color: #4CAF50;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #8BC34A;
+}
+
 footer {
     background-color: #333; /* Dunkleres Schwarz */
     padding: 10px 0;
