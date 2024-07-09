@@ -1,23 +1,22 @@
 <!DOCTYPE html>
-<html lang="de-DE">
-  <head>
+<html lang="de">
+<head>
     <meta charset="UTF-8">
-
-{% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <header class="page-header"  role="banner">
-      <h1 class="project-name">KI generierte Bücher</h1>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KI generierte Bücher</title>
+    <link rel="stylesheet" href="/books/static/main.css">
+</head>
+<body>
+    <header>
+        <p class="header-title">KI generierte Bücher</p>
     </header>
-    <main id="content" class="main-content" role="main">
+
+    <main>
         {{ content }}
-        <footer class="site-footer">&copy; 2024 Michael Stegmann</footer>
     </main>
-  </body>
+
+    <footer>
+        <p>&copy; 2024 Michael Stegmann</p>
+    </footer>
+</body>
 </html>

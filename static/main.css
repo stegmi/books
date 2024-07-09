@@ -1,0 +1,50 @@
+/* Reset für das ganze Dokument */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Standard-Schrift ähnlich Arial */
+body {
+    font-family: sans-serif;
+    color: white;
+    background-color: black;
+}
+
+/* Zentriert die Inhaltsbereiche bei großen Bildschirmen */
+header, main, footer {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Stil für Header */
+header {
+    background-color: #333; /* Dunkleres Schwarz */
+}
+
+.header-title {
+    font-size: 24px;
+}
+
+/* Stil für Hauptinhalt */
+main {
+    padding: 20px 0;
+}
+
+main h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+/* Stil für Footer */
+footer {
+    background-color: #333; /* Dunkleres Schwarz */
+    padding: 10px 0;
+}
+
+footer p {
+    font-size: 14px;
+}
