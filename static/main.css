@@ -61,7 +61,7 @@ main a:hover {
     color: #8BC34A;
 }
 
-main ul,ol {
+main li {
     text-align: left;
     margin-left: 20px;
 }
