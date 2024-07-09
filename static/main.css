@@ -26,26 +26,28 @@ header {
 }
 
 main {
-    padding: 20px 0;
+    padding: 20px;
+    background-color: black;
+    color: #EEE;
     text-align: justify;
 }
 
 main p {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 main h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+main h2 {
     font-size: 28px;
     margin-bottom: 15px;
 }
 
-main h2 {
-    font-size: 24px;
-    margin-bottom: 10px;
-}
-
 main h3 {
-    font-size: 20px;
+    font-size: 24px;
     margin-bottom: 10px;
 }
 
