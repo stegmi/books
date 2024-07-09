@@ -5,4 +5,6 @@ Die KI basiert aktuell auf mehreren Agenten, die jeweils für eigene Aspekte bei
 Es ist ein fortlaufendes Projekt...
 
 ## Liste
-- [Der alte Mann und die Stadt der Lichter](v1/der-alte-mann-und-die-stadt-der-lichter.md)
+- [Würzburg - Ein Fest auf dem Heuchelhof (Gesellschaft)](v1/wuerzburg-ein-fest-auf-dem-heuchelhof.md)
+- [Der alte Mann und die Stadt der Lichter (Science-Fiction)](v1/der-alte-mann-und-die-stadt-der-lichter.md)
+- [Mars - der Flug ins Ungewisse (Science-Fiction)](v1/mars.md)
