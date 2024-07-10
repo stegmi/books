@@ -7,4 +7,5 @@ Es ist ein fortlaufendes Projekt...
 ## Liste
 - [Würzburg - Ein Fest auf dem Heuchelhof (Gesellschaft)](v1/wuerzburg-ein-fest-auf-dem-heuchelhof.md)
 - [Der alte Mann und die Stadt der Lichter (Science-Fiction)](v1/der-alte-mann-und-die-stadt-der-lichter.md)
-- [Mars - der Flug ins Ungewisse (Science-Fiction)](v1/mars.md)
+- [Der Flug ins Ungewisse (Science-Fiction)](v1/mars.md)
+- [Ankunft auf dem Mars (Science-Fiction)](v1/mars2.md)
